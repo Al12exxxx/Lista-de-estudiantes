@@ -1,0 +1,39 @@
+#botón_enviar
+{
+	background-color:#20B2AA ;
+	color: #0000FF;
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+#botón_ordenar
+{
+background-color:#9370D8 ;
+color: #0000FF;
+	display: none;
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+
+
+input
+{
+	background-color: #dc143c7a;
+	color: blue;
+	font-family: fantasy;
+	margin: 10px;
+}
+body{
+	background-image: url("depositphotos_126269318-stock-illustration-cartoon-colorful-cats.jpg");
+}
+span{
+	color: #0000FF;
+	font-family: fantasy;
+}
+h3{
+	background-color: #00ff0047;
+	font-family: fantasy;
+	color: #DC143C;
+}
+#botón_nuevo_para_actualizar{
+	
+}
